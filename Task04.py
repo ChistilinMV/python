@@ -9,4 +9,5 @@ if not number % 3:
     kat = number // 3 * 2
     petser = (number - kat) // 2
     print(f'Петя - {petser} Катя - {kat} Серёжа - {petser}')
-else: print('Количество журавликов не соответствует заданию')
+else:
+    print('Количество журавликов не соответствует заданию')

@@ -5,10 +5,16 @@
 # 123456 -> no
 
 number = input('Введите номер билета >')
-summ1 = 0; summ2 =0
+summ1 = 0
+summ2 = 0
 if len(number) == 6:
-    for i in number[:3]: summ1 += int(i)
-    for j in number[3:]: summ2 += int(j)
-    if summ1 == summ2: print('Yes!')
-    else: print('no')
-else: print ('Количество цифр в номере, по условию задачи, должно быть равно 6!')
+    for i in number[:3]:
+        summ1 += int(i)
+    for j in number[3:]:
+        summ2 += int(j)
+    if summ1 == summ2:
+        print('Yes!')
+    else:
+        print('no')
+else:
+    print('Количество цифр в номере, по условию задачи, должно быть равно 6!')

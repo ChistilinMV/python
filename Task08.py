@@ -6,6 +6,7 @@
 n = int(input('Введите кол-во долек n >'))
 m = int(input('Введите кол-во долек m >'))
 k = int(input('Сколько долек надо отломить >'))
-if (k%m==0 or k%n==0) and (k<m*n):
+if (k % m == 0 or k % n == 0) and (k < m*n):
     print('Yes')
-else: print('No')
+else:
+    print('No')
