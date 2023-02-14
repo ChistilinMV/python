@@ -1,6 +1,6 @@
 # python
 
-Допы второго семинара
+Допы 2-го семинара
 
 https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=3&id_topic=35&id_problem=223
 
@@ -9,4 +9,8 @@ https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=113
 https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=114&id_problem=703
 
 https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=114&id_problem=702
+
+Доп 5-го семинара
+
+https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=5&id_topic=114&id_problem=704
 
